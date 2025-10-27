@@ -19,6 +19,10 @@
     "node": ">=18"
   },
   "homepage": "https://frappeframework.com",
+  "resolutions": {
+    "form-data": "^4.0.4",
+    "loadjs": "^4.3.0"
+  },
   "dependencies": {
     "@editorjs/editorjs": "~2.26.3",
     "@frappe/esbuild-plugin-postcss2": "^0.1.3",
